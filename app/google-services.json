@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "234589722720",
+    "firebase_url": "https://vevovideoplayer.firebaseio.com",
+    "project_id": "vevovideoplayer",
+    "storage_bucket": "vevovideoplayer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234589722720:android:9f3c2be7a8bcebdabd8b05",
+        "android_client_info": {
+          "package_name": "com.friedfishapps.justplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234589722720-0vje95uveavajb12mdm83ct03r0974s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.friedfishapps.justplay",
+            "certificate_hash": "d7b128f36147bf1dafbf8de02a5382a335e3b448"
+          }
+        },
+        {
+          "client_id": "234589722720-tqbd0isufq9v4gpu355v6k2nie2oiu4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMWmkLOK3p_gacj3jALytv9ArwMqlq9no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234589722720-tqbd0isufq9v4gpu355v6k2nie2oiu4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
